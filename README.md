@@ -1,2 +1,4 @@
-# gitex_spotify
-GITEX Spotify Code
+# Create your spotify playlist with Python & AI 
+
+
+Good luck with your challenge ! 
